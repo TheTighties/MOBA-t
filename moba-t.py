@@ -4,6 +4,7 @@ import json
 import os
 import discord
 
+#TheTighties & Affidavid
 client = discord.Client()
 
 @client.event
